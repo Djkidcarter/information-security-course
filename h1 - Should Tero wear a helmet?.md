@@ -13,7 +13,7 @@ Next, they explained that they have a set of values and principles.
 For example, they value “people and collaboration over processes” and they follow the principle that the “outcomes of threat modeling are meaningful when they are of value to stakeholders.”
 Finally, the article lists some beneficial patterns like having a systematic approach and some anti patterns which would inhibit threat modeling like having a tendency to overfocus.
 
-## Video https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf 
+## Videos 
 
 The playlist of YouTube video is a crash course on threat modeling by Adam Shostack. It explains the goal and insists on the 4 important questions we need to ask ourselves.
 What are we working on?
@@ -32,8 +32,6 @@ What are we going to do about it? Adam explains that the work needs to be tracke
 In his last episode, Adam explains that to answer the question, did we do a good job? You need to ask the question, would you recommend threat modeling to a colleague? If not, you probably did not do a good job. 
 
 ## Threat Modeling Cheat sheet
-
-https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
 
 The article is a cheat sheet about the OWASP threat modeling. The 4 questions remain the same.
 What are we working on?
