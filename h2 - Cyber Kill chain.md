@@ -18,10 +18,14 @@ https://attack.mitre.org/
 
 Tactics are the “why” or the reason an attacker performs an attack.
 •	Ex: stealing sensitive data
+
 Techniques are the “how” or the way to achieve the set goal.	
 •	Ex: phishing email
+
 Subtechniques are a variation of the technique.
 •	Ex: spearphishing attachments
+
 Procedures are the actual tool used by the attacker.
 •	Ex: ransomware 
+
 The Mitre att&ck system seems better adapted to modern times as it provides a extensive list of tactics, techniques and procedures to help mitigate, detect and fight off attackers. It also works for mobile phones. 
