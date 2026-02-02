@@ -54,10 +54,13 @@ sudo runs the command with admin permissions. nmap is the software used for mapp
  * **Over the wire**
 
    *level 0*
+   
     <img width="578" height="39" alt="image" src="https://github.com/user-attachments/assets/07ff11e7-8b36-4c15-8d76-e11de84b31ce" />
+    
     password is bandit0
 
    *level 1*
+   
    <img width="995" height="199" alt="image" src="https://github.com/user-attachments/assets/0a3785db-e8eb-4885-9037-51e712457cfe" />
 
 *level 2*
