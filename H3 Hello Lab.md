@@ -65,7 +65,7 @@ sudo runs the command with admin permissions. nmap is the software used for mapp
 
 *level 2*
 
-    <img width="327" height="69" alt="image" src="https://github.com/user-attachments/assets/c600a0b8-0387-4436-a0b7-f91801b95cc3" />
+   <img width="327" height="69" alt="image" src="https://github.com/user-attachments/assets/c600a0b8-0387-4436-a0b7-f91801b95cc3" /> 
 
 *level 3*
 
