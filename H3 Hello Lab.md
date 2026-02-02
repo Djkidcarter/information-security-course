@@ -25,7 +25,28 @@
 
 * **Can't fish**
 
-* When pinging 1.1.1.1 on the Linux terminal, I received replies only when I was connected to the internet.
-* The replies of the ping stop instantly when switching off my Wi-Fi showing that packets don't go through when the networking is disabled.
-* 
-* <img width="825" height="522" alt="image" src="https://github.com/user-attachments/assets/910a992b-f777-4289-9787-6c0bce747d60" />
+  When pinging 1.1.1.1 on the Linux terminal, I received replies only when I was connected to the internet.
+  The replies of the ping stop instantly when switching off my Wi-Fi showing that packets don't go through when the networking is disabled.
+  
+  <img width="825" height="522" alt="image" src="https://github.com/user-attachments/assets/910a992b-f777-4289-9787-6c0bce747d60" />
+
+*  **Local only**
+  
+In the terminal of the virtual machine, I first ran the command *sudo apt- install nmap* to install nmap.
+Then I disable the network and enterred the command *sudo nmap -A localhost* and got the following:
+  
+<img width="1478" height="420" alt="image" src="https://github.com/user-attachments/assets/faa4e7cf-b395-42c3-af5e-66a26c81498a" />
+
+To analyze the latest command:
+
+sudo runs the command with admin permissions. nmap is the software used for mapping the network. -A enables the aggressive detection and localhost is the target.
+
+* **Daemon scan**
+
+  First, I entered the command *nmap localhost*. I can see that there is only port 631 opened.
+
+  Then I send the command *sudo apt-get install apache2* to install Apache 2 and ran again a port scan and got the following.
+
+ <img width="723" height="332" alt="image" src="https://github.com/user-attachments/assets/986f8db9-d6d8-4e71-8f27-39fb89b8c9a9" />
+
+ It shows this time 2 ports open, 631 and 80.
