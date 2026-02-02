@@ -50,3 +50,17 @@ sudo runs the command with admin permissions. nmap is the software used for mapp
  <img width="723" height="332" alt="image" src="https://github.com/user-attachments/assets/986f8db9-d6d8-4e71-8f27-39fb89b8c9a9" />
 
  It shows this time 2 ports open, 631 and 80.
+
+ * **Over the wire**
+
+   *level 0*
+    <img width="578" height="39" alt="image" src="https://github.com/user-attachments/assets/07ff11e7-8b36-4c15-8d76-e11de84b31ce" />
+    password is bandit0
+
+   *level 1*
+   <img width="995" height="199" alt="image" src="https://github.com/user-attachments/assets/0a3785db-e8eb-4885-9037-51e712457cfe" />
+
+*level 2*
+
+    
+
