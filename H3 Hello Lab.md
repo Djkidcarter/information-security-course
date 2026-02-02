@@ -53,13 +53,13 @@ sudo runs the command with admin permissions. nmap is the software used for mapp
 
  * **Over the wire**
 
-   *level 0*
+ *level 0*
    
-    <img width="578" height="39" alt="image" src="https://github.com/user-attachments/assets/07ff11e7-8b36-4c15-8d76-e11de84b31ce" />
+   <img width="578" height="39" alt="image" src="https://github.com/user-attachments/assets/07ff11e7-8b36-4c15-8d76-e11de84b31ce" />
     
     password is bandit0
 
-   *level 1*
+ *level 1*
    
    <img width="995" height="199" alt="image" src="https://github.com/user-attachments/assets/0a3785db-e8eb-4885-9037-51e712457cfe" />
 
@@ -69,11 +69,11 @@ sudo runs the command with admin permissions. nmap is the software used for mapp
 
 *level 3*
 
-<img width="504" height="63" alt="image" src="https://github.com/user-attachments/assets/8298568c-0130-4ddb-bfbc-8ce7b9eff506" />
+   <img width="504" height="63" alt="image" src="https://github.com/user-attachments/assets/8298568c-0130-4ddb-bfbc-8ce7b9eff506" />
 
 *level 4*
 
-<img width="447" height="115" alt="image" src="https://github.com/user-attachments/assets/25f19a38-a779-40aa-a731-7d21554301df" />
+  <img width="447" height="115" alt="image" src="https://github.com/user-attachments/assets/25f19a38-a779-40aa-a731-7d21554301df" />
 
 
 I asked gemini for clues for the level 3 and 4.
