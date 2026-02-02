@@ -15,10 +15,17 @@
 
   *nano* *mkdir* *mv* *cp* *rm*
 
-  Then the article explains that everything in Linux is organised under the root directory and lists the important directories.
+  Then the article explains that everything in Linux is organised under the root directory and lists some important directories.
 
   */home/* */etc/* */var/log/*
 
   It gives some administrative commands *sudo apt-get update* to install software update.
 
   Lastly, the author shows a way to access SSH remotely. *ssh tero@example.com*
+
+* **Can't fish**
+
+* When pinging 1.1.1.1 on the Linux terminal, I received replies only when I was connected to the internet.
+* The replies of the ping stop instantly when switching off my Wi-Fi showing that packets don't go through when the networking is disabled.
+* 
+* <img width="825" height="522" alt="image" src="https://github.com/user-attachments/assets/910a992b-f777-4289-9787-6c0bce747d60" />
