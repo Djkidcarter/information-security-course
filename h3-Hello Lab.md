@@ -26,7 +26,7 @@
 * **Can't fish**
 
   When pinging 1.1.1.1 on the Linux terminal, I received replies only when I was connected to the internet.
-  The replies of the ping stop instantly when switching off my Wi-Fi showing that packets don't go through when the networking is disabled.
+  The replies of the ping stopped instantly when switching off my Wi-Fi showing that packets don't go through when the networking is disabled.
   
   <img width="825" height="522" alt="image" src="https://github.com/user-attachments/assets/910a992b-f777-4289-9787-6c0bce747d60" />
 
