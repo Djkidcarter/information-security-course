@@ -33,7 +33,7 @@
 *  **Local only**
   
 In the terminal of the virtual machine, I first ran the command *sudo apt- install nmap* to install nmap.
-Then I disable the network and enterred the command *sudo nmap -A localhost* and got the following:
+Then I disabled the network and enterred the command *sudo nmap -A localhost* and got the following:
   
 <img width="1478" height="420" alt="image" src="https://github.com/user-attachments/assets/faa4e7cf-b395-42c3-af5e-66a26c81498a" />
 
