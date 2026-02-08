@@ -24,3 +24,21 @@ To prevent it, it is recommended to follow these principles:
 - Disable directory listing
 
 - Monitor the logs and setup alerts
+
+# Security misconfiguration
+
+Number 2 of the latest OWASP Top 10. It happens when the configuration of the security has not been done or has been incorrectly. 
+This can creates backdoors for attackers. It is often the result of a human error.
+
+It may happen in many ways (ex: default/weak passwords, misconfiguration of a security setting on your public cloud account, etc)
+
+To prevent it, you should:
+
+-  environments should all be configured identically, with different credentials used in each environment. This process should be automated to minimize the effort required to set up a new secure environment.
+
+-  A minimal platform without any unnecessary features
+
+-  change the default passwords and disable default accounts.
+
+-  Ensure the website only shows generic error messages to users. Keep the detailed technical logs hidden on the server for developers only.
+
