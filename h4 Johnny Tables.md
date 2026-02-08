@@ -69,8 +69,11 @@ To prevent it, it is recommended to follow these principles:
 
 # Exploits of a Mom
 
-This is a humouristic webcomic related to SQL injection. A mother receives a phone call from her son's school asking her to verify his name. "Is your son's name Robert'); DROP TABLE Students;--?"
-The mother replied positively. The scholl had lost all the student records for the year. And the mother to advice the school on sanitizing the database inputs.
+This is a humouristic webcomic related to SQL injection. A mother receives a phone call from her son's school asking her to verify his name.
+"Is your son's name Robert'); DROP TABLE Students;--?"
+The mother replied positively. 
+The scholl had lost all the student records for the year. 
+And the mother to advice the school on sanitizing the database inputs.
 
 
 # a) Webgoat
