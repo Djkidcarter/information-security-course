@@ -106,8 +106,52 @@ I visited the github repo to get the correct version.
 
 Then I ran the command 
 
-<img width="1082" height="458" alt="image" src="https://github.com/user-attachments/assets/11eafd85-c530-4621-b2f1-2e4a2c06948b" />
+<img width="1567" height="392" alt="image" src="https://github.com/user-attachments/assets/885cf26d-329b-4a8d-b145-acb1d10a3e2e" />
 
+and managed to get to the webgoat.
 
+<img width="640" height="471" alt="image" src="https://github.com/user-attachments/assets/457b6422-dc7f-4f3b-ace3-16e564b4df02" />
 
+# b) Solving webgoat 2023.4
 
+<img width="1557" height="537" alt="image" src="https://github.com/user-attachments/assets/26d6e19a-f2ac-472c-a334-6d63bcd30e54" />
+
+I opened the dev tools by pressing f12 and followed the instructions.
+
+<img width="692" height="293" alt="image" src="https://github.com/user-attachments/assets/8c565821-b09e-49ba-99bf-5ef8c39f9228" />
+
+I have managed to find the network number.
+
+<img width="610" height="313" alt="image" src="https://github.com/user-attachments/assets/9303826e-4ce2-4b1b-90e1-c74351e225d7" />
+
+# c) Update all OS and application on Linux
+
+Everything was already up to date.
+
+<img width="678" height="223" alt="image" src="https://github.com/user-attachments/assets/1e020994-687e-49af-a417-15fadf0d699d" />
+
+# d) SQLZoo
+
+- 0 SELECT basics
+
+<img width="802" height="436" alt="image" src="https://github.com/user-attachments/assets/c3274318-7a85-41b2-b006-3de77e60c817" />
+
+<img width="838" height="523" alt="image" src="https://github.com/user-attachments/assets/2c6065ad-ac46-49f8-8c4b-a1f15f7402c0" />
+
+<img width="840" height="488" alt="image" src="https://github.com/user-attachments/assets/2295c19c-0bf6-4e9f-ad68-d20263991499" />
+
+- 2 SELECT from World: First two subtasks:
+
+<img width="1204" height="519" alt="image" src="https://github.com/user-attachments/assets/7fc5e624-0cd0-4563-adac-344fdc876e46" />
+
+<img width="826" height="449" alt="image" src="https://github.com/user-attachments/assets/9e3fb012-e50f-419b-af33-9979cf3229cc" />
+
+# e) Portswigger Labs
+
+<img width="833" height="354" alt="image" src="https://github.com/user-attachments/assets/8852d9bb-f0bd-4012-8d60-7b310bae79b2" />
+
+Since the SQL statement is SELECT * FROM products WHERE category = 'Gifts' AND released = 1
+and that we want to see unreleased items, we need to find a way to get rid of "AND released = 1" by injecting something before
+OR 1=1--
+
+<img width="1112" height="223" alt="image" src="https://github.com/user-attachments/assets/44a4fc6f-308f-428f-a99b-ca759e3beaed" />
