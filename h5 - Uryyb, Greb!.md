@@ -77,7 +77,11 @@ instance deduction => finding the "plaintext of an intercepted ciphertext."
 information deduction => gaining info about the key/plaintext
 
 
+
+
+
  - Karvinen 2023: PGP - Send Encrypted and Signed Message - gpg
+
 
 This article shows a step by step tutorial on how to encrypt and sign a message. 
 Each person needs to generate a pair of keys, a public one that can be shared and a private that remains secret.
