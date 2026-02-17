@@ -3,6 +3,7 @@
 ## x) Read and summarize
 
 - € Schneier 2015: Applied Cryptography: Chapter 1: Foundations
+  
 
  The chapter explains some key concepts about messages and encryption. The author defines the terms simply and establish a mathematical relationship.
 
@@ -62,6 +63,18 @@ Known-plaintext attack
 Chosen-plaintext attack
 
 Adaptive-chosen-plaintext attack
+
+
+Some algorithms are more secure than others and it depends on how hard they are to break. " If the cost required to break an algorithm is greater than the value of the encrypted data, then you're probably safe." (Schneier, 2015)
+Lars Knudsen deffined the different way an alogorithm can be broken:
+
+total break => you find the key
+
+global deduction => finding a way to decrypt without the key
+
+instance deduction => finding the "plaintext of an intercepted ciphertext."
+
+information deduction => gaining info about the key/plaintext
 
 
  
