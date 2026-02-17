@@ -77,6 +77,40 @@ instance deduction => finding the "plaintext of an intercepted ciphertext."
 information deduction => gaining info about the key/plaintext
 
 
- 
+ - Karvinen 2023: PGP - Send Encrypted and Signed Message - gpg
+
+This article shows a step by step tutorial on how to encrypt and sign a message. 
+Each person needs to generate a pair of keys, a public one that can be shared and a private that remains secret.
+
+$ gpg --homedir . --gen-key
+
+Then the public keys need to be exchanged and stored. Fingerprints have to be compared to ensure no one has tampered with the key.
+
+$ gpg --homedir . --fingerprint
+pub   rsa3072 2023-11-17 [SC] [expires: 2025-11-16]
+      B624 CDED 2430 252D 298D  7EC4 A8D8 1658 00B3 84A3
+uid           [ unknown] Tero Karvinen DEMO KEY <tero@example.com.invalid>
+sub   rsa3072 2023-11-17 [E] [expires: 2025-11-16]
+
+Next, the message can be written, encrypted and signed.
+
+$ gpg --homedir . --encrypt --recipient tero@example.com.invalid --sign --output encrypted.pgp --armor message.txt
+
+Finally, the receiver decrypts and verifies the message.
+
+$ gpg --decrypt encrypted.pgp 
+gpg: encrypted with 3072-bit RSA key, ID C02F76970B155196, created 2023-11-17
+      "Tero Karvinen DEMO KEY <tero@example.com.invalid>"
+Hi Tero,
+
+This is my secret message. I'm so happy we have PGP to protect our communications! 
+
+The right to private communication is important in a free society. 
+
+-- Alice
+gpg: Signature made Fri 17 Nov 2023 12:52:22 PM EET
+gpg:                using RSA key B20FD80B705C791DC87800307BAA4F132645134F
+gpg: Good signature from "Alice <alice@example.com.invalid>" [full]
+
 
  
