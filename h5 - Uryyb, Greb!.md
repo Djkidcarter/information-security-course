@@ -169,6 +169,16 @@ and dowloaded the file. Then, I started the installation process.
 <img width="605" height="475" alt="image" src="https://github.com/user-attachments/assets/37bbc68f-e521-48c0-b8c6-78c4b89de24a" />
 
 The first thing to do was to create a new database to be able to store the passwords. The next screen was about the settings of the encryption which I left as default. Finally, I was asked to select the master passphrase and saved the .kdbx file in my documents folder. 
+The software seems very easy to use. On the main screen, you have 3 options. Create database, open database and import files. I chose to create a new database. You have to click on the + icon to add a new entry, then enter the name as the title. Next, enter your username and password. You can also generate a random password if needed. Finally, you need to click on save, and that's it!
+
+A password manager is important for our security. Let's face it, most of us use the same weak password for all of our accounts online. Using this technology, increase your security by using a totally randomly generated password different for every accounts. So if an attacker steal your password, he does not have access to everything.
+Passwords managers also protect better against brute force attack. The generated password is trully random and contains all sorts of special characters.
+The fact that this KeePassXC is cloudless means that the passwords are not saved on the cloud. If the company's server is hacked, your passwords are safe.
+
+# s) ETAOIN. Crack this ciphertext:
+
+HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
+
 
 
 
