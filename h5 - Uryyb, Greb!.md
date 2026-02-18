@@ -117,4 +117,26 @@ gpg:                using RSA key B20FD80B705C791DC87800307BAA4F132645134F
 gpg: Good signature from "Alice <alice@example.com.invalid>" [full]
 
 
- 
+# a) Install OpenSSH server, connect to it using 'ssh' client
+
+First thing first, I started my VM and accessed the terminal and updated my Linux.
+
+<img width="592" height="304" alt="image" src="https://github.com/user-attachments/assets/30d5a72e-87fb-4696-9f55-c1c47a7ecc2e" />
+
+Then, I enterred the command to install SSH. SSH was already previously installed in class.
+
+<img width="628" height="119" alt="image" src="https://github.com/user-attachments/assets/ba62b1f8-0e68-44e4-b018-53c4d43a34ad" />
+
+Next, I started SSH and checked the "whoami" command.
+
+<img width="506" height="65" alt="image" src="https://github.com/user-attachments/assets/58ffed97-8585-4d7e-82f4-074d1ab4caf3" />
+
+Then, I connected to the local host using SSH.
+
+<img width="807" height="225" alt="image" src="https://github.com/user-attachments/assets/8eb554f9-5ad9-4ef1-bde9-9b60954eff7e" />
+
+
+
+
+
+
