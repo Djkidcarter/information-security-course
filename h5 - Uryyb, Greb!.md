@@ -135,6 +135,30 @@ Then, I connected to the local host using SSH.
 
 <img width="807" height="225" alt="image" src="https://github.com/user-attachments/assets/8eb554f9-5ad9-4ef1-bde9-9b60954eff7e" />
 
+Finally, I close the connection bt entering the command "exit".
+
+<img width="330" height="79" alt="image" src="https://github.com/user-attachments/assets/5c3460a5-d903-4c7b-bd82-5aac77989510" />
+
+# b) Automate SSH connection using public keys.
+
+The first step here is to generate the key. Let's use the following command:
+
+<img width="719" height="97" alt="image" src="https://github.com/user-attachments/assets/646ac614-df82-489d-bb72-2cc7dde969d9" />
+
+Then, i pressed enter when asked about the file in which to save the key. And twice enter when asked about the passphrase and got the following:
+
+<img width="782" height="403" alt="image" src="https://github.com/user-attachments/assets/b8981bf2-b905-413f-8295-5e5e094b7816" />
+
+We now need to copy the key to the server by using the command ssh-copy-id julien@localhost
+
+<img width="805" height="202" alt="image" src="https://github.com/user-attachments/assets/46b906a5-0f42-456b-9427-da6323eae7bb" />
+
+We can now test the automation. Let's try to connect again and see that we are logged in straight away without entering a password.
+
+<img width="806" height="274" alt="image" src="https://github.com/user-attachments/assets/3e00f6c3-25b1-4ea2-8f0d-441535c12214" />
+
+It worked!
+
 
 
 
