@@ -159,8 +159,16 @@ We can now test the automation. Let's try to connect again and see that we are l
 
 It worked!
 
+# Password manager
 
+After doing some research on the different options regarding an open source, cloudless password manager, KeePassXC was recommended to me by one of my friends. So I went to their website https://keepassxc.org/download/#windows
+and dowloaded the file. Then, I started the installation process.
 
+<img width="613" height="272" alt="image" src="https://github.com/user-attachments/assets/5e78cdb5-5eb1-4075-8754-ae0fd18196ee" />
+
+<img width="605" height="475" alt="image" src="https://github.com/user-attachments/assets/37bbc68f-e521-48c0-b8c6-78c4b89de24a" />
+
+The first thing to do was to create a new database to be able to store the passwords. The next screen was about the settings of the encryption which I left as default. Finally, I was asked to select the master passphrase and saved the .kdbx file in my documents folder. 
 
 
 
