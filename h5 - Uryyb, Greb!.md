@@ -159,7 +159,7 @@ We can now test the automation. Let's try to connect again and see that we are l
 
 It worked!
 
-# Password manager
+# c) Password manager
 
 After doing some research on the different options regarding an open source, cloudless password manager, KeePassXC was recommended to me by one of my friends. So I went to their website https://keepassxc.org/download/#windows
 and dowloaded the file. Then, I started the installation process.
@@ -175,10 +175,28 @@ A password manager is important for our security. Let's face it, most of us use 
 Passwords managers also protect better against brute force attack. The generated password is trully random and contains all sorts of special characters.
 The fact that this KeePassXC is cloudless means that the passwords are not saved on the cloud. If the company's server is hacked, your passwords are safe.
 
-# s) ETAOIN. Crack this ciphertext:
+# s) ETAOIN. Crack this ciphertext
 
 HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
 
+It looks like an address web at the end "DHHP://HIYWLMYCTAIA.OWG". We can deduct dhhp to be http and .owg as .com
 
+So D = H, H = T, P = P, O = C, W = O and G = M
 
+let's now replace this letters and see where we are at.
 
+THMT'B TT. KOU'YI AOR OSSTCTMJJK M COQINYIMLIY! MB KOU BII, BTMPJI BUNBTTTUTTOA CTPHIYB CMA NI NYOLIA RTTH SYIEUIACK MAMJKBTB. BII KOU MT HTTP://TIYOLMYCTAIA.COM
+
+the first sentence seems to be "That's it". Let's replace the following letters.
+M = A , T = I and B = S  and see what we have.
+
+THAT'S IT. KOU'YI AOR OSSICIAJJK A COQINYIALIY! AS KOU SII, SIMPJI SUNSTITUTIOA CIPHIYS CAA NI NYOLIA RITH SYIEUIACK AAAJKSIS. SII KOU AT HTTP://TIYOLAYCIAIA.COM
+
+It seems that at the end, the message is "see you at (URL)". So let's replace the letters:
+I = E and  K = Y
+
+THAT'S IT. YOU'RE AOR OSSICIAJJY A COQENERALER! AS YOU SEE, SIMPJE SUNSTITUTIOA CIPHERS CAA NE NROLEA RITH SREUEACY AAAYKSIS. SEE YOU AT HTTP://TEROLARYCIAEA.COM
+
+The word OSSICIAJJY seems to be officially. Let's substitute S for F and J for L
+
+THAT'S IT. YOU'RE AOR OFFICIALLY A 
