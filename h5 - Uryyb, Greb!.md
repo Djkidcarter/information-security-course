@@ -185,18 +185,33 @@ So D = H, H = T, P = P, O = C, W = O and G = M
 
 let's now replace this letters and see where we are at.
 
-THMT'B TT. KOU'YI AOR OSSTCTMJJK M COQINYIMLIY! MB KOU BII, BTMPJI BUNBTTTUTTOA CTPHIYB CMA NI NYOLIA RTTH SYIEUIACK MAMJKBTB. BII KOU MT HTTP://TIYOLMYCTAIA.COM
+<img width="367" height="477" alt="image" src="https://github.com/user-attachments/assets/6c7d60d8-868e-442a-b084-92f0f1fc3319" />
 
 the first sentence seems to be "That's it". Let's replace the following letters.
 M = A , T = I and B = S  and see what we have.
 
-THAT'S IT. KOU'YI AOR OSSICIAJJK A COQINYIALIY! AS KOU SII, SIMPJI SUNSTITUTIOA CIPHIYS CAA NI NYOLIA RITH SYIEUIACK AAAJKSIS. SII KOU AT HTTP://TIYOLAYCIAIA.COM
+<img width="383" height="522" alt="image" src="https://github.com/user-attachments/assets/2961a505-1e96-491c-961a-7c23c7f380e3" />
 
 It seems that at the end, the message is "see you at (URL)". So let's replace the letters:
-I = E and  K = Y
+I = E, U = U and  K = Y
 
-THAT'S IT. YOU'RE AOR OSSICIAJJY A COQENERALER! AS YOU SEE, SIMPJE SUNSTITUTIOA CIPHERS CAA NE NROLEA RITH SREUEACY AAAYKSIS. SEE YOU AT HTTP://TEROLARYCIAEA.COM
+<img width="357" height="465" alt="image" src="https://github.com/user-attachments/assets/e7724729-c7ca-49be-8dd6-a99f4f452ffd" />
 
-The word OSSICIAJJY seems to be officially. Let's substitute S for F and J for L
+The word MAMJKBTB seems to be analysis. Let's substitute the following letters:
 
-THAT'S IT. YOU'RE AOR OFFICIALLY A 
+A = N and J = L
+
+<img width="379" height="492" alt="image" src="https://github.com/user-attachments/assets/530ec7ed-6793-4423-8567-f1c6e7024d37" />
+
+The message is now a lot more comprehensible. From the last image, we can deduct:
+
+Y = R, R = W, S = F, N = B
+
+<img width="395" height="547" alt="image" src="https://github.com/user-attachments/assets/7afe56a7-5a23-4a9a-9206-d15e9673c20c" />
+
+For the remaining letters, it seems that:
+
+Q = D, L = K, E = Q and C = V
+
+<img width="402" height="564" alt="image" src="https://github.com/user-attachments/assets/f606f3a1-7738-4a38-92e2-611749cba79a" />
+
