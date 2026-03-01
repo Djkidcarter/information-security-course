@@ -22,4 +22,4 @@ A good hash function is collision free, meaning that it is nearly impossible to 
 Hash functions can be great to maintain integrity as the hashes can be compared to ensure that files have not been tampered with.
 A message authentication code (MAC) is a hash function that needs a secret key. A person with the key can then verify the hash value.
 
-# Install HashCat
+## Install HashCat
