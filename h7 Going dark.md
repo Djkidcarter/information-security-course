@@ -1,6 +1,6 @@
 # Going dark
 
-## Summaries
+## x) Summaries
 
 - https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor
 
@@ -34,3 +34,32 @@ TOR is a portable application and do not require an installation, an extraction 
 TOR hides the user's true IP address by replacing it with the IP address of the exit node. This is obviously good to protect anonimity but can also be used by criminals to commit illegal actions.
 
 It is extremely difficult to track users of TOR, and the FBI has succeeded once in a dismantlement of a child pornography server. But this was due to a vulnerability that got patched quickly. The major weakness of the service remains the user as they can misconfigure the browser, like allowing geolocation request or install plugins that can bypass the TOR proxy to reveal the true IP address.
+
+## a) Install TOR browser and access TOR network (.onion addresses)
+
+Being a complete beginner, I was a bit unsure how to complete this part of the homework safely so I have done some research first. It was recommended to take a snapshot of the virtual machine should anything happened, I could always revert to this version. I have named the snapshot pre-darknet homework as shown in the following picture.
+
+<img width="1919" height="297" alt="image" src="https://github.com/user-attachments/assets/dcedcd28-1309-4b6c-8391-d38d57f2d633" />
+
+Then, I switched on my virtual machine and accessed the terminal. As usual, the first thing to do is to update Debian to make sure I have the latest security patches.
+
+<img width="804" height="231" alt="image" src="https://github.com/user-attachments/assets/892da344-22bc-4f06-a6e2-294ed8809f42" />
+
+Then I opened my browser and typed the following address https://www.torproject.org/download/
+
+<img width="829" height="240" alt="image" src="https://github.com/user-attachments/assets/631fdd02-cbaf-4d65-91d9-f17604725842" />
+
+<img width="931" height="880" alt="image" src="https://github.com/user-attachments/assets/9dc267dc-67c9-4dbc-94b4-c9a29adc4f98" />
+
+I hit the download for Linux button.
+
+<img width="491" height="134" alt="image" src="https://github.com/user-attachments/assets/2ec75fd2-d128-43fd-86ee-e6ae5ed61d5b" />
+
+When the dowload finished, i right clicked on the .tar.xz file and selected "extract here".
+
+<img width="764" height="519" alt="image" src="https://github.com/user-attachments/assets/2067184f-a827-4ce5-aed7-c4d3bd4fc432" />
+
+Next, i clicked on start-tor-browser.desktop to launch it.
+
+<img width="601" height="304" alt="image" src="https://github.com/user-attachments/assets/de005520-775e-4609-ba9a-a364d06ad889" />
+
