@@ -59,7 +59,37 @@ When the dowload finished, i right clicked on the .tar.xz file and selected "ext
 
 <img width="764" height="519" alt="image" src="https://github.com/user-attachments/assets/2067184f-a827-4ce5-aed7-c4d3bd4fc432" />
 
-Next, i clicked on start-tor-browser.desktop to launch it.
+Next, I selected start-tor-browser.desktop and clicked on extract.
 
 <img width="601" height="304" alt="image" src="https://github.com/user-attachments/assets/de005520-775e-4609-ba9a-a364d06ad889" />
+
+<img width="269" height="241" alt="image" src="https://github.com/user-attachments/assets/bf5a5c81-7f95-446a-ae2f-853a59f3ee71" />
+
+Then, I was able to start the launcher.
+
+<img width="862" height="610" alt="image" src="https://github.com/user-attachments/assets/770afcc8-161f-406f-90e3-738f7f39c878" />
+
+I hit the connect button.
+
+<img width="763" height="282" alt="image" src="https://github.com/user-attachments/assets/0783bfe8-fb45-451f-ba2e-f1da84ebafca" />
+
+<img width="793" height="588" alt="image" src="https://github.com/user-attachments/assets/192a9f6f-97d6-4883-9c16-45c8e621bd13" />
+
+First thing, I changed the security settings to the safest option as show in the following picture and restarted the browser.
+
+<img width="794" height="782" alt="image" src="https://github.com/user-attachments/assets/657205c6-cdad-4dc5-b9cc-b16acf602d00" />
+
+## b) Browse TOR network, find, take screenshots and comment
+
+- search engine for onion sites
+
+For the search engine, TOR is recommending "Ahmia" as abuse material is not allowed.
+
+<img width="769" height="586" alt="image" src="https://github.com/user-attachments/assets/ce6759f0-370e-40a2-94cd-dd1840caeb0f" />
+
+<img width="804" height="712" alt="image" src="https://github.com/user-attachments/assets/0729f134-65b4-49cb-a7c4-0f2c8c5f1363" />
+
+The service seems to work like a traditional search engine except that is giving only .onion sites.
+
+<img width="794" height="717" alt="image" src="https://github.com/user-attachments/assets/2001fe9e-56a1-400b-b587-e95d4b88117a" />
 
