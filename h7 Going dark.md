@@ -21,3 +21,4 @@ Lastly, TOR is of course not perfect and can "destroy your own anonymity" if use
 
 - Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser
 
+TOR is free and easy to use browser allowing a person to hide their IP address in order  to stay anonymous when surfing the web or sending emails. Initially developed by the US government, TOR is a browser that allow to keep private conversations private. As many things, it can be used properly or to do something illegal. It is also important to note that, the open source service does not belong to anyone and "For that reason alone, Tor receives worldwide input from privacy motivated experts to ensure it remains relevant and effective".
