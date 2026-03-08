@@ -106,3 +106,25 @@ Next, I decided to visit the Abacus marketplace as it was recommended by Gemini.
 <img width="681" height="314" alt="image" src="https://github.com/user-attachments/assets/98e2f637-7a6d-4688-b947-87ea6067d957" />
 
 <img width="439" height="202" alt="image" src="https://github.com/user-attachments/assets/3ad7f05a-06e4-4c85-b071-7071288cfdc3" />
+
+It looks like this onion site is inactive as I got stuck there for minutes until I decided to move on.
+
+<img width="760" height="532" alt="image" src="https://github.com/user-attachments/assets/7086a30a-bb8d-4cc3-986a-0b0d8605a771" />
+
+For the forum, I chose "Dread" as it is apparently the Reddit of the dark web.
+
+<img width="791" height="717" alt="image" src="https://github.com/user-attachments/assets/8079e91a-0ed2-43dc-a136-6b96321686ee" />
+
+Being a reddit user, it is true that the interface shares some similarities.
+
+<img width="798" height="775" alt="image" src="https://github.com/user-attachments/assets/128b5a66-5edc-4438-908f-fad217eb1def" />
+
+<img width="795" height="734" alt="image" src="https://github.com/user-attachments/assets/6eb818f7-c53c-45c6-95ca-04eea2d20f92" />
+
+For the last part of the assignment, let's now visit a well known organization. We have been told by Tero that the CIA has a site on the dark net. Let's see if we can find it.
+
+<img width="789" height="713" alt="image" src="https://github.com/user-attachments/assets/7d9d23ee-3f97-462b-b653-4b5b7fcdc7ca" />
+
+<img width="782" height="414" alt="image" src="https://github.com/user-attachments/assets/a4ff9742-cb34-44e3-8e71-cf27a550efae" />
+
+This looks like the correct site when you can apparently contact the, also report some information or even apply.
