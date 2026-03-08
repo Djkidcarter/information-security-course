@@ -93,3 +93,15 @@ The service seems to work like a traditional search engine except that is giving
 
 <img width="794" height="717" alt="image" src="https://github.com/user-attachments/assets/2001fe9e-56a1-400b-b587-e95d4b88117a" />
 
+I clicked on the first link and it seems that I have accessed a black marketplace.
+
+<img width="796" height="789" alt="image" src="https://github.com/user-attachments/assets/86a3c821-16a7-4d33-916d-58eefd1b1dd9" />
+
+It is actually insane that you can buy credit cards details, ATM skimmers or counterfeit money from this site.
+
+<img width="787" height="623" alt="image" src="https://github.com/user-attachments/assets/5644afda-28d3-4526-929b-adaa3d3b239b" />
+
+Next, I decided to visit the Abacus marketplace as it was recommended by Gemini.
+
+<img width="681" height="314" alt="image" src="https://github.com/user-attachments/assets/98e2f637-7a6d-4688-b947-87ea6067d957" />
+
