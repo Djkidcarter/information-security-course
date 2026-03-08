@@ -22,3 +22,9 @@ Lastly, TOR is of course not perfect and can "destroy your own anonymity" if use
 - Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser
 
 TOR is free and easy to use browser allowing a person to hide their IP address in order  to stay anonymous when surfing the web or sending emails. Initially developed by the US government, TOR is a browser that allow to keep private conversations private. As many things, it can be used properly or to do something illegal. It is also important to note that, the open source service does not belong to anyone and "For that reason alone, Tor receives worldwide input from privacy motivated experts to ensure it remains relevant and effective".
+
+So, how does it work concretely? It directs the route of a user's traffic through random relays, hence the name of the onion router. Like an onion, it is made up of different layers. With every relay, "a layer of encryption is peeled off as it goes through the Tor nodes to its final destination."
+
+<img width="671" height="409" alt="image" src="https://github.com/user-attachments/assets/d3f840ee-edfb-4f83-92aa-5861783e4e2a" />
+
+The relays are ran by volunteers and anyone can do it by configuring a server to become a relay. It is said in this book that "there are over 750,000 users of Tor using over 6000 relays worldwide".
