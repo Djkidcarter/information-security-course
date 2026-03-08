@@ -105,3 +105,4 @@ Next, I decided to visit the Abacus marketplace as it was recommended by Gemini.
 
 <img width="681" height="314" alt="image" src="https://github.com/user-attachments/assets/98e2f637-7a6d-4688-b947-87ea6067d957" />
 
+<img width="439" height="202" alt="image" src="https://github.com/user-attachments/assets/3ad7f05a-06e4-4c85-b071-7071288cfdc3" />
