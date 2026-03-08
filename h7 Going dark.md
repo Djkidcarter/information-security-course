@@ -27,4 +27,10 @@ So, how does it work concretely? It directs the route of a user's traffic throug
 
 <img width="671" height="409" alt="image" src="https://github.com/user-attachments/assets/d3f840ee-edfb-4f83-92aa-5861783e4e2a" />
 
-The relays are ran by volunteers and anyone can do it by configuring a server to become a relay. It is said in this book that "there are over 750,000 users of Tor using over 6000 relays worldwide".
+The relays are ran by volunteers and anyone can do it by configuring a server to become one. It is said in this book that "there are over 750,000 users of Tor using over 6000 relays worldwide".
+
+TOR is a portable application and do not require an installation, an extraction of the file is simply needed to run.
+
+TOR hides the user's true IP address by replacing it with the IP address of the exit node. This is obviously good to protect anonimity but can also be used by criminals to commit illegal actions.
+
+It is extremely difficult to track users of TOR, and the FBI has succeeded once in a dismantlement of a child pornography server. But this was due to a vulnerability that got patched quickly. The major weakness of the service remains the user as they can misconfigure the browser, like allowing geolocation request or install plugins that can bypass the TOR proxy to reveal the true IP address.
