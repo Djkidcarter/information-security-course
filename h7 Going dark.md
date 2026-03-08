@@ -128,3 +128,7 @@ For the last part of the assignment, let's now visit a well known organization. 
 <img width="782" height="414" alt="image" src="https://github.com/user-attachments/assets/a4ff9742-cb34-44e3-8e71-cf27a550efae" />
 
 This looks like the correct site when you can apparently contact the, also report some information or even apply.
+
+<img width="780" height="402" alt="image" src="https://github.com/user-attachments/assets/75c17e8b-fe27-4d0e-b97a-e3971092d411" />
+
+<img width="748" height="567" alt="image" src="https://github.com/user-attachments/assets/101d4695-dbc1-4fa7-a565-9a02f08ef1ca" />
